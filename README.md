@@ -1,3 +1,3 @@
 # it202-project2
 Agency Template website
-https://faro0q.github.io/it202-project2/
+https://faro0q.github.io/Website-using-a-template/
